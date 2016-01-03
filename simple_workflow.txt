@@ -1,0 +1,26 @@
+To use git:
+
+cd into directory you wanna track
+>> git init       # to tell git u wanna track this folder
+
+>> touch name_of_file.txt   # touch creates files for you
+
+>> git add name_of_file.txt   # to add the file to git
+
+>> git commit -m "Your message"  # to commit changes to git with a logical message
+
+>> git status   # to check the status of tracked files
+
+>> git log      # to see commits
+
+>> subl name_of_file    # open file in sublime
+
+NOW EDIT THE FILE (TYPE AND MAKE CHANGES)
+
+>> git status     # to see if there are any modified files
+
+IF SO..
+
+>> git add name_of_file
+>> git commit -m "Your_message"
+
