@@ -46,6 +46,9 @@ cd into directory you wanna track
 
 >> git push origin master
 
+<!-- NOW GO TO GITHUB AND CHECK YOUR REPO, YOU SHOULD FIND ALL YOUR CODE AND COMMITS-->
+
+
 
 
 
