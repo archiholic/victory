@@ -27,4 +27,23 @@ cd into directory you wanna track
 
 <!--KEEP FOLLOWING THE SAME STEPS UNTIL YOU ARE DONE WITH YOUR PROJECT!-->
 
+<!-- IF YOU WANT TO SEE THE DIFFERENCE BETWEEN TWO COMMITS TYPE-->
+>> git log        <!-- # to see all your commits-->
+<!-- NOW FIND TWO COMMITS YOU WANNA COMPARE and type-->
+>> git diff 1b102...... b29f5.... <!--# the long number of both IDs-->
+
+<!-- NOW YOU CAN SEE THE ADDITION AND DELECTION OF TWO COMMITS -->
+
+<!-- ONCE YOU ARE READY TO SUBMIT YOUR ASSIGNMENT-->
+<!--  GO TO GITHUB CREATE AN ACCOUNT, THEN CREATE A NEW REPO! -->
+
+<!-- NOW TYPE IN TERMINAL -->
+
+>> git remote add origin http://the link to your repo!
+>> git remote -v    <!--# to see that you are linked to github-->
+
+
+
+
+
 
