@@ -42,6 +42,9 @@ cd into directory you wanna track
 >> git remote add origin http://the link to your repo!
 >> git remote -v    <!--# to see that you are linked to github-->
 
+<!-- NOW THAT YOU ARE DONE WITH YOUR PROJECT AND WANT TO SUBMIT IT TYPE..-->
+
+>> git push origin master
 
 
 
