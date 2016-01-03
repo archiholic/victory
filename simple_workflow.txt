@@ -24,3 +24,6 @@ IF SO..
 >> git add name_of_file
 >> git commit -m "Your_message"
 
+KEEP FOLLOWING THE SAME STEPS UNTIL YOU ARE DONE WITH YOUR PROJECT!
+
+
